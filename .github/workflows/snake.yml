@@ -1,0 +1,32 @@
+name: Gerar cobrinha das contribuições
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gerar snake.svg nas cores azul-marinho e verde-água
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#A8DADC&color_dots=#161b22,#1d3557,#1f6f78,#2a9d8f,#52d6b4
+            dist/snake-light.svg?color_snake=#1d3557&color_dots=#ebedf0,#a8dadc,#52d6b4,#2a9d8f,#1d3557
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
