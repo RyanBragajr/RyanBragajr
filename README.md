@@ -25,6 +25,11 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
+  <img height="120" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RyanBragajr&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues&hide_rank=true&card_width=330&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20Ryan&hide_border=true&border_radius=16&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&icon_color=95D5B2&ring_color=52D6B4" alt="Estatísticas do GitHub do Ryan" />
+  <img height="120" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RyanBragajr&layout=compact&langs_count=10&locale=pt-br&hide_border=true&border_radius=16&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=RyanBragajr&locale=pt_BR&hide_border=true&border_radius=16&background=1D3557&ring=2A9D8F&fire=52D6B4&stroke=2A9D8F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52D6B4&sideLabels=95D5B2&dates=A8DADC" alt="Estatísticas de sequência de contribuições no GitHub" />
 </p>
 
