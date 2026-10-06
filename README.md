@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://github.com/RyanBragajr/POO-CP5-4S"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanBragajr&repo=POO-CP5-4S&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true" alt="POO-CP5-4S"></a>
   <a href="https://github.com/RyanBragajr/CP01.Application-Development"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanBragajr&repo=CP01.Application-Development&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true" alt="CP01.Application-Development"></a>
-  <a href="https://github.com/RyanBragajr/Mercadinho-em-Python"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanBragajr&repo=Mercadinho-em-Python&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true" alt="Mercadinho-em-Python"></a>
+  <a href="https://github.com/RyanBragajr/Python.AulasPCP"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanBragajr&repo=Python.AulasPCP&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true" alt="Python.AulasPCP"></a>
 </p>
 
 <br/>
