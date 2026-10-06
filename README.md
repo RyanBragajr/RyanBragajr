@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  🥇 <b>1º lugar no evento NEXT - GoodWe</b>&nbsp;&nbsp;•&nbsp;&nbsp;🌱 Interesse em IA e energias renováveis&nbsp;&nbsp;•&nbsp;&nbsp;📱 Aprendendo React Native
+  🥇 <b>1º lugar no evento NEXT - GoodWe</b>&nbsp;&nbsp;•&nbsp;&nbsp;📱 Aprendendo React Native<br/>
+  🎯 <b>Interesses:</b> IA, Cybersecurity, DevOps e energias renováveis
 </p>
 
 <br/>
