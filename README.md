@@ -33,12 +33,12 @@
 <h3 align="center">🤝 Projetos em equipe</h3>
 
 <p align="center">
-  <a href="https://github.com/Matomomitsu/ChallengeDemo"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matomomitsu&repo=ChallengeDemo&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=false&border_color=52D6B4&icon_color=95D5B2&show_icons=true&show_description=false" alt="ChallengeDemo"></a>
-  <a href="https://github.com/henrikmm/GreenV"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=henrikmm&repo=GreenV&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true&show_description=false" alt="GreenV"></a>
-  <a href="https://github.com/Matomomitsu/fiap-cpad-cp2-cantina-app"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matomomitsu&repo=fiap-cpad-cp2-cantina-app&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true&show_description=false" alt="fiap-cpad-cp2-cantina-app"></a>
+  <a href="https://github.com/RyanBragajr/Challenge.BotSolar-GoodWe-2025"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanBragajr&repo=Challenge.BotSolar-GoodWe-2025&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=false&border_color=52D6B4&icon_color=95D5B2&show_icons=true&show_description=false" alt="Challenge.BotSolar-GoodWe-2025"></a>
+  <a href="https://github.com/RyanBragajr/Challenger.GreenV-CCR.Motiva-2026"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanBragajr&repo=Challenger.GreenV-CCR.Motiva-2026&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true&show_description=false" alt="Challenger.GreenV-CCR.Motiva-2026"></a>
+  <a href="https://github.com/RyanBragajr/Mobile.CPAD-CP2-Cantina.App"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanBragajr&repo=Mobile.CPAD-CP2-Cantina.App&theme=react&bg_color=1D3557&title_color=52D6B4&text_color=E6EDF3&hide_border=true&icon_color=95D5B2&show_icons=true&show_description=false" alt="Mobile.CPAD-CP2-Cantina.App"></a>
 </p>
 
-<p align="center">🏆 <b>ChallengeDemo</b>: projeto vencedor do Challenge</p>
+<p align="center">🏆 <b>BotSolar</b>: projeto vencedor do Challenge GoodWe 2025</p>
 
 <h3 align="center">💻 Projetos pessoais e acadêmicos</h3>
 
