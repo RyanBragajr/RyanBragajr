@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  🥇 <b>1º lugar no evento NEXT - GoodWe</b>&nbsp;&nbsp;•&nbsp;&nbsp;📱 Aprendendo React Native<br/>
+  🥇 <b>1º lugar no evento NEXT - GoodWe</b><br/>
+  📚 <b>Aprendendo:</b> React Native e Go (Golang)<br/>
   🎯 <b>Interesses:</b> IA, Cybersecurity, DevOps e energias renováveis
 </p>
 
