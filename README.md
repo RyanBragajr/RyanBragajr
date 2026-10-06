@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52D6B4&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Ryan!;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+FIAP+Paulista;Da+Enfermagem+para+a+Tecnologia" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52D6B4&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Ryan!;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+FIAP+Paulista;Da+Enfermagem+para+a+Tecnologia" alt="Olá, eu sou o Ryan! Ciência da Computação na FIAP Paulista. Da Enfermagem para a Tecnologia." />
 </p>
 
 <h2 align="center">👋 Sobre mim</h2>
@@ -23,7 +23,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RyanBragajr&locale=pt_BR&hide_border=true&border_radius=16&background=1D3557&ring=2A9D8F&fire=52D6B4&stroke=2A9D8F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52D6B4&sideLabels=95D5B2&dates=A8DADC" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=RyanBragajr&locale=pt_BR&hide_border=true&border_radius=16&background=1D3557&ring=2A9D8F&fire=52D6B4&stroke=2A9D8F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52D6B4&sideLabels=95D5B2&dates=A8DADC" alt="Estatísticas de sequência de contribuições no GitHub" />
 </p>
 
 <br/>
