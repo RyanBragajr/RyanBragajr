@@ -23,7 +23,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RyanBragajr&hide_border=true&border_radius=16&background=1D3557&ring=2A9D8F&fire=52D6B4&stroke=2A9D8F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52D6B4&sideLabels=95D5B2&dates=A8DADC" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RyanBragajr&locale=pt_BR&hide_border=true&border_radius=16&background=1D3557&ring=2A9D8F&fire=52D6B4&stroke=2A9D8F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52D6B4&sideLabels=95D5B2&dates=A8DADC" alt="GitHub Streak" /></a>
 </p>
 
 <br/>
